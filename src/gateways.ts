@@ -1,4 +1,5 @@
 export default [
+  'https://gateway.moralisipfs.com/ipfs/:hash',
   'https://ipfs.io/ipfs/:hash',
   'https://dweb.link/ipfs/:hash',
   'https://gateway.ipfs.io/ipfs/:hash',
